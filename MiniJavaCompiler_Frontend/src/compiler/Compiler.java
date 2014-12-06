@@ -10,7 +10,7 @@ public class Compiler {
 
 	private static String filename;
 	private static String outputfilename;
-		
+		 
 	private static boolean debug;
 	
 	private static String[] arguments={ "" };
